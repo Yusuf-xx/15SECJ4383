@@ -1,2 +1,2 @@
-# 15SECJ4383...test...
+# 15SECJ4383
 Software Construction
