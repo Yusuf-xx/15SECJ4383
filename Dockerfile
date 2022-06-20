@@ -1,5 +1,5 @@
 FROM openjdk:11
 RUN mkdir /app
-COPY imagedocker/src/imagedocker/ /app
+COPY dockertest/src/dockertest/ /app
 WORKDIR /app
 CMD java Main
